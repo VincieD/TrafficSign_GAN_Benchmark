@@ -1,7 +1,7 @@
 # TrafficSign_GAN_Benchmark
 
 ## Dataset
-Within the dataset folder can be found a P2 sign dataset for training purpose.
+Within the dataset folder can be found a P2 sign dataset (containing 100 images) for training purpose.
 
 ![](https://github.com/VincieD/TrafficSign_GAN_Benchmark/blob/master/dataset/P2/IS11b_0.4898%20008024_1433_211_105_112_140317.jpg)
 
