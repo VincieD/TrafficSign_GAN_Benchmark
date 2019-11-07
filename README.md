@@ -13,4 +13,4 @@ Within this script you can set up the the hyperparametrs of training and choose 
 
 ## Evaluation
 
-For evaluation purposes 1000 images will be generated every 100 epochs. At the end of the training the FID will be generated. Please consider the discussion about FID, since 1000 images are consider to be not sufficient.
+For evaluation purposes 1000 images will be generated every 100 epochs. At the end of the training the FID will be generated. Please consider the discussion about FID https://arxiv.org/abs/1706.08500 , since 1000 images are consider to be not sufficient.
