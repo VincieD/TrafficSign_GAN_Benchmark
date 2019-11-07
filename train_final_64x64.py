@@ -688,7 +688,7 @@ if __name__ == '__main__':
 
     realImage_Path = "dataSet_mini"
 
-    dataset = DATA_SET("/storage/plzen1/home/vincie/wgan/dataSet_mini",
+    dataset = DATA_SET("dataSet",
         grayScale=False, 
         labels=False,
         img_rows= 64,
